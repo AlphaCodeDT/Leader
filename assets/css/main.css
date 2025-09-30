@@ -8503,3 +8503,4 @@ body { color: var(--text-dark); background: var(--muted-bg); }
 /* ===== end Leader brand tokens ===== */
 
 /*# sourceMappingURL=main.css.map */
+\n/* Leader brand overrides */\n:root{\n  --brand-dark:#0B3A4A;   /* primary */\n  --brand-sky:#2FA8D6;    /* support */\n  --accent:#FFC400;       /* CTA/yellow */\n  --muted-bg:#F7FAFC;     /* light bg */\n  --text-dark:#0B2B34;    /* body text */\n}\n/* Gentle brand mapping with minimal overrides */\n.btn, .theme-btn, .primary-btn { background: var(--accent); border-color: var(--accent); }\na, .link, .nav a:hover { color: var(--brand-sky); }\n.header, .footer { background-color: var(--brand-dark); }\nbody { color: var(--text-dark); background: var(--muted-bg); }\n
