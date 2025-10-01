@@ -1,0 +1,24 @@
+Added new site at /leader-site preserving original template.
+
+Files created:
+- index.html
+- products.html
+- about.html
+- portfolio.html
+- faq.html
+- testimonial.html
+- contact.html
+- 404.html
+- products/solar-rooftops.html
+- products/solar-water-pumps.html
+- products/solar-water-heaters.html
+- products/wind-turbines.html
+- products/biogas-systems.html
+- products/project-execution.html
+- data/products.json
+- data/gallery.json
+- assets/ (copied from template)
+- assets/specs/*.pdf (placeholders)
+- assets/img/preview/leader-og.jpg
+- README.md
+
