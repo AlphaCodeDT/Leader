@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "solar-rooftops",
+    "name": "Solar Rooftops",
+    "oneLiner": "grid-connected & hybrid systems with net-metering support",
+    "image": {
+      "src": "/leader-new/assets/img/products/solar-rooftops.svg",
+      "alt": "Rooftop solar installation in Babhaleshwar"
+    }
+  },
+  {
+    "slug": "solar-water-pumps",
+    "name": "Solar Water Pumps",
+    "oneLiner": "solar-powered irrigation & domestic pumps",
+    "image": {
+      "src": "/leader-new/assets/img/products/solar-water-pumps.svg",
+      "alt": "Solar water pump installation in Rahata farm"
+    }
+  },
+  {
+    "slug": "solar-water-heaters",
+    "name": "Solar Water Heaters",
+    "oneLiner": "efficient thermal water heating for homes & hotels",
+    "image": {
+      "src": "/leader-new/assets/img/products/solar-water-heaters.svg",
+      "alt": "Solar water heater installation in Rahata"
+    }
+  },
+  {
+    "slug": "wind-turbines",
+    "name": "Wind Turbines",
+    "oneLiner": "small/medium turbines for hybrid systems",
+    "image": {
+      "src": "/leader-new/assets/img/products/wind-turbines.svg",
+      "alt": "Wind turbine installation in school campus"
+    }
+  },
+  {
+    "slug": "biogas-systems",
+    "name": "Biogas Systems",
+    "oneLiner": "waste-to-energy plants for farms & industries",
+    "image": {
+      "src": "/leader-new/assets/img/products/biogas-systems.svg",
+      "alt": "Biogas plant installation in dairy farm"
+    }
+  },
+  {
+    "slug": "project-execution",
+    "name": "Project Execution",
+    "oneLiner": "planning, logistics, installation and O&M",
+    "image": {
+      "src": "/leader-new/assets/img/products/project-execution.svg",
+      "alt": "Renewable project execution team in Maharashtra"
+    }
+  }
+]

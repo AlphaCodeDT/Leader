@@ -1,0 +1,37 @@
+[
+  {
+    "caption": "Rooftop solar installation — Babhaleshwar",
+    "image": {
+      "src": "/leader-new/assets/img/gallery/g1.svg",
+      "alt": "Rooftop solar installation in Babhaleshwar"
+    }
+  },
+  {
+    "caption": "Solar water pump installation — Rahata farm",
+    "image": {
+      "src": "/leader-new/assets/img/gallery/g2.svg",
+      "alt": "Solar water pump installation in Rahata"
+    }
+  },
+  {
+    "caption": "Commercial rooftop system — industrial unit",
+    "image": {
+      "src": "/leader-new/assets/img/gallery/g3.svg",
+      "alt": "Commercial rooftop solar installation in Rahata"
+    }
+  },
+  {
+    "caption": "Wind turbine & solar hybrid — school campus",
+    "image": {
+      "src": "/leader-new/assets/img/gallery/g4.svg",
+      "alt": "Wind turbine and solar hybrid installation in school campus"
+    }
+  },
+  {
+    "caption": "Biogas plant installation — dairy farm",
+    "image": {
+      "src": "/leader-new/assets/img/gallery/g5.svg",
+      "alt": "Biogas plant installation in dairy farm"
+    }
+  }
+]
