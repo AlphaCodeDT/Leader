@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "slug": "solar-rooftops",
+      "name": "Solar Rooftops",
+      "short": "Grid-connected & hybrid rooftop systems with net-metering support.",
+      "image": "./assets/img/products/solar-rooftops.svg",
+      "alt": "Rooftop solar installation in Babhaleshwar",
+      "badge": "Popular",
+      "category": "solar"
+    },
+    {
+      "slug": "solar-water-pumps",
+      "name": "Solar Water Pumps",
+      "short": "Reliable solar-powered irrigation and domestic pumping solutions.",
+      "image": "./assets/img/products/solar-water-pumps.svg",
+      "alt": "Solar water pump installation in Rahata",
+      "badge": "Agri",
+      "category": "pumps"
+    },
+    {
+      "slug": "solar-water-heaters",
+      "name": "Solar Water Heaters",
+      "short": "Efficient thermal water heating for homes, hotels, and hostels.",
+      "image": "./assets/img/products/solar-water-heaters.svg",
+      "alt": "Solar water heater installation in Rahata",
+      "badge": "Hot Water",
+      "category": "heaters"
+    },
+    {
+      "slug": "wind-turbines",
+      "name": "Wind Turbines",
+      "short": "Small/medium turbines for hybrid and remote power systems.",
+      "image": "./assets/img/products/wind-turbines.svg",
+      "alt": "Wind turbine installation in Shirdi region",
+      "badge": "Hybrid",
+      "category": "wind"
+    },
+    {
+      "slug": "biogas-systems",
+      "name": "Biogas Systems",
+      "short": "Waste-to-energy plants for farms, dairies, and small industries.",
+      "image": "./assets/img/products/biogas-systems.svg",
+      "alt": "Biogas plant installation in Rahata",
+      "badge": "Green",
+      "category": "biogas"
+    },
+    {
+      "slug": "project-execution",
+      "name": "Project Execution",
+      "short": "Planning, logistics, installation, commissioning, and O&M services.",
+      "image": "./assets/img/products/project-execution.svg",
+      "alt": "Project execution and logistics in Ahmednagar",
+      "badge": "Service",
+      "category": "services"
+    }
+  ]
+}
+
