@@ -93,7 +93,7 @@
       const btn = e.target.closest('button[data-filter]');
       if(!btn) return;
       const f = btn.getAttribute('data-filter');
-      qsa('[data-filter] button', filterBar).forEach(b=>b.classList.remove('btn-brand'));
+      qsa('button[data-filter]', filterBar).forEach(b=>b.classList.remove('btn-brand'));
       btn.classList.add('btn-brand');
       qsa('[data-cat]', grid).forEach(el=>{
         el.style.display = (f==='all' || el.getAttribute('data-cat')===f) ? '' : 'none';
@@ -101,6 +101,22 @@
     });
   }
   mountGallery().catch(console.warn);
+
+  // Testimonials slider (optional vendor)
+  try{
+    if(typeof Swiper !== 'undefined' && document.querySelector('.testimonials-swiper')){
+      /* eslint-disable no-undef */
+      new Swiper('.testimonials-swiper', {
+        loop:true,
+        spaceBetween:24,
+        slidesPerView:1,
+        pagination:{ el: '.swiper-pagination', clickable:true },
+        navigation:{ nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev' },
+        breakpoints:{ 640:{slidesPerView:1}, 1024:{slidesPerView:2} }
+      });
+      /* eslint-enable */
+    }
+  }catch(err){/* ignore */}
 
   // Contact form validation + mailto/WhatsApp fallback
   const form = qs('#contact-form');

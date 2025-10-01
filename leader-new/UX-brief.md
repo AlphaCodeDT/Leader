@@ -1,6 +1,6 @@
 Leader — Powers & Renewable Energy Solutions — UI/UX Brief
 
-Purpose: Build a fresh, static website that matches or improves the template’s UX patterns without copying any template HTML or content.
+Purpose: Build a fresh, static website that matches or improves the template’s UX patterns without copying any template HTML or content. This brief is implemented in the new pages now present under `/leader-new/`.
 
 Observed patterns from the template (scan only; no copied markup):
 

@@ -1,0 +1,14 @@
+{
+  "items": [
+    {"src": "./assets/img/gallery/item-1.svg", "srcLarge": "./assets/img/gallery/item-1.svg", "alt": "Rooftop solar installation in Babhaleshwar", "caption": "Rooftop solar installation — Babhaleshwar", "category": "solar"},
+    {"src": "./assets/img/gallery/item-2.svg", "srcLarge": "./assets/img/gallery/item-2.svg", "alt": "Solar water pump installation in Rahata", "caption": "Solar water pump installation — Rahata farm", "category": "pumps"},
+    {"src": "./assets/img/gallery/item-3.svg", "srcLarge": "./assets/img/gallery/item-3.svg", "alt": "Commercial rooftop solar installation in industrial unit", "caption": "Commercial rooftop system — industrial unit", "category": "solar"},
+    {"src": "./assets/img/gallery/item-4.svg", "srcLarge": "./assets/img/gallery/item-4.svg", "alt": "Wind turbine and solar hybrid installation in school campus", "caption": "Wind turbine & solar hybrid — school campus", "category": "wind"},
+    {"src": "./assets/img/gallery/item-5.svg", "srcLarge": "./assets/img/gallery/item-5.svg", "alt": "Biogas plant installation in dairy farm", "caption": "Biogas plant installation — dairy farm", "category": "biogas"},
+    {"src": "./assets/img/gallery/item-6.svg", "srcLarge": "./assets/img/gallery/item-6.svg", "alt": "Solar rooftop installation in Rahata", "caption": "Residential rooftop — Rahata", "category": "solar"},
+    {"src": "./assets/img/gallery/item-7.svg", "srcLarge": "./assets/img/gallery/item-7.svg", "alt": "Solar water pump installation in Shrirampur", "caption": "Irrigation pump — Shrirampur", "category": "pumps"},
+    {"src": "./assets/img/gallery/item-8.svg", "srcLarge": "./assets/img/gallery/item-8.svg", "alt": "Hybrid system installation in Ahmednagar", "caption": "Hybrid microgrid — Ahmednagar", "category": "wind"},
+    {"src": "./assets/img/gallery/item-9.svg", "srcLarge": "./assets/img/gallery/item-9.svg", "alt": "Biogas digester installation in farm", "caption": "Biogas digester — Rahata Taluka", "category": "biogas"}
+  ]
+}
+
