@@ -1,0 +1,45 @@
+[
+  {
+    "slug": "solar-rooftops",
+    "name": "Solar Rooftops",
+    "tagline": "Residential & Commercial",
+    "image": "assets/img/service/service-img-1.png",
+    "specPdf": "assets/specs/solar-rooftops-specs.pdf"
+  },
+  {
+    "slug": "solar-water-pumps",
+    "name": "Solar Water Pumps",
+    "tagline": "Agriculture & Domestic",
+    "image": "assets/img/service/service-img-2.png",
+    "specPdf": "assets/specs/solar-water-pumps-specs.pdf"
+  },
+  {
+    "slug": "solar-water-heaters",
+    "name": "Solar Water Heaters",
+    "tagline": "Thermal Heating Systems",
+    "image": "assets/img/service/service-img-3.png",
+    "specPdf": "assets/specs/solar-water-heaters-specs.pdf"
+  },
+  {
+    "slug": "wind-turbines",
+    "name": "Wind Turbines",
+    "tagline": "Hybrid Energy Systems",
+    "image": "assets/img/project/project-4.png",
+    "specPdf": "assets/specs/wind-turbines-specs.pdf"
+  },
+  {
+    "slug": "biogas-systems",
+    "name": "Biogas Systems",
+    "tagline": "Waste-to-Energy",
+    "image": "assets/img/project/project-5.png",
+    "specPdf": "assets/specs/biogas-systems-specs.pdf"
+  },
+  {
+    "slug": "project-execution",
+    "name": "Project Execution",
+    "tagline": "Complete Solutions",
+    "image": "assets/img/images/service-details-img-1.png",
+    "specPdf": "assets/specs/project-execution-specs.pdf"
+  }
+]
+
